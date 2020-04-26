@@ -1,0 +1,91 @@
+{
+  "uid" : "3f7cfe03b1c7e2c4",
+  "name" : "testmethod2",
+  "fullName" : "Pytest_package.test_pytest_allure#testmethod2",
+  "historyId" : "a924539109c73237a8c5f3971e0b70f1",
+  "time" : {
+    "start" : 1583502916663,
+    "stop" : 1583502916664,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup2",
+    "time" : {
+      "start" : 1583502916662,
+      "stop" : 1583502916662,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "setup2::0",
+    "time" : {
+      "start" : 1583502916665,
+      "stop" : 1583502916665,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Pytest_package"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest_allure"
+  }, {
+    "name" : "host",
+    "value" : "ZAKHAROVE"
+  }, {
+    "name" : "thread",
+    "value" : "19368-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Pytest_package.test_pytest_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "100bb676179b4acd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583500194925,
+        "stop" : 1583500194926,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f7cfe03b1c7e2c4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,18 @@
+WARNING:root:warning
+ERROR:root:error
+CRITICAL:root:critical
+DEBUG:root:debug
+INFO:root:info
+WARNING:root:warning
+ERROR:root:error
+CRITICAL:root:critical
+2019-08-26 19:10:43,848: DEBUG: debug:
+2019-08-26 19:10:43,861: INFO: info:
+2019-08-26 19:10:43,861: WARNING: warning:
+2019-08-26 19:10:43,861: ERROR: error:
+2019-08-26 19:10:43,862: CRITICAL: critical:
+08/26/2019 07: 17: 22 PM: DEBUG: debug:
+08/26/2019 07: 17: 22 PM: INFO: info:
+08/26/2019 07: 17: 22 PM: WARNING: warning:
+08/26/2019 07: 17: 22 PM: ERROR: error:
+08/26/2019 07: 17: 22 PM: CRITICAL: critical:
